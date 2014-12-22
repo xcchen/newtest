@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE project>
+<project name="wasdeploy" default="test">
+    <target name="test">
+        <echo>TESTED RUNNIGN OK!!!</echo>
+    </target>
+</project>
